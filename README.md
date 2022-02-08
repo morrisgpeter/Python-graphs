@@ -7,3 +7,4 @@ Python graphs library
 - Mosaic plot 
   - dataframe as source
   - frequency table as source
+- Wordcloud
