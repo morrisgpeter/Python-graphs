@@ -8,3 +8,5 @@ Python graphs library
   - dataframe as source
   - frequency table as source
 - Wordcloud
+- Polar plot
+- Radial Plot
